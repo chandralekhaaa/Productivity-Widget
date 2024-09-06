@@ -7,7 +7,7 @@ Problem this widget tries to solve
 <br/>2. Overwhelming tasks cause procrastination
 
 Solution
-<br/>A widget that increases productivity by making planning and scheduling easier. The widget includes a task list, Pomodoro timer and a Do not diturb mode. It also includes a project scheduler. The project scheduler breaks doen a big project into smaaler achievable tasks.
+<br/>A widget that increases productivity by making planning and scheduling easier. The widget includes a task list, Pomodoro timer and a Do not disturb mode. It also includes a project scheduler. The project scheduler breaks down a big project into smaaler achievable tasks.
 
 Tech stack
 <br/>C# Windows form application
